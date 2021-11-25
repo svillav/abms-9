@@ -1,0 +1,10 @@
+C:\Users\santi\OneDrive\Documentos\Facultad\1er Año\Programación II\Archivos\TP9-ABMS\bin\Debug\TP9-ABMS.exe.config
+C:\Users\santi\OneDrive\Documentos\Facultad\1er Año\Programación II\Archivos\TP9-ABMS\bin\Debug\TP9-ABMS.exe
+C:\Users\santi\OneDrive\Documentos\Facultad\1er Año\Programación II\Archivos\TP9-ABMS\bin\Debug\TP9-ABMS.pdb
+C:\Users\santi\OneDrive\Documentos\Facultad\1er Año\Programación II\Archivos\TP9-ABMS\obj\Debug\TP9-ABMS.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Documentos\Facultad\1er Año\Programación II\Archivos\TP9-ABMS\obj\Debug\TP9_ABMS.ABSM.resources
+C:\Users\santi\OneDrive\Documentos\Facultad\1er Año\Programación II\Archivos\TP9-ABMS\obj\Debug\TP9_ABMS.Properties.Resources.resources
+C:\Users\santi\OneDrive\Documentos\Facultad\1er Año\Programación II\Archivos\TP9-ABMS\obj\Debug\TP9-ABMS.csproj.GenerateResource.cache
+C:\Users\santi\OneDrive\Documentos\Facultad\1er Año\Programación II\Archivos\TP9-ABMS\obj\Debug\TP9-ABMS.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Documentos\Facultad\1er Año\Programación II\Archivos\TP9-ABMS\obj\Debug\TP9-ABMS.exe
+C:\Users\santi\OneDrive\Documentos\Facultad\1er Año\Programación II\Archivos\TP9-ABMS\obj\Debug\TP9-ABMS.pdb
